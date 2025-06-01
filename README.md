@@ -115,6 +115,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/fccb25c986fd380bef5a7f568742094d851b78bd/snake.svg" alt="Snake animation" />
 
 ###
