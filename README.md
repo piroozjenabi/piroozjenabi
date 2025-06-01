@@ -1,15 +1,14 @@
 <h1 align="left">Hi 👋! My name is Pirooz Jenabi, and I'm Lead Full-Stack Developer.</h1>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=piroozjenabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=piroozjenabi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piroozjenabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <a href="https://stackoverflow.com/users/7277647/pirooz-jenabi" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
+  </a>
 </div>
 
 ###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -94,23 +93,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <a href="https://stackoverflow.com/users/7277647/pirooz-jenabi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
-  </a>
-</div>
-
+# 💫 About Me:
+🔭 I’m currently working on<br>Building robust backend systems with Django, FastAPI, and Laravel, alongside creating seamless frontend experiences using Vue, Nuxt, and React. I'm also managing complex DevOps workflows with Docker to streamline development, deployment, and scalability.<br><br>👯 I’m looking to collaborate on<br>Forward-thinking projects that push the boundaries of full-stack development, especially those involving modern frameworks, cloud-native architecture, or developer tooling innovation.<br><br>🤝 I’m looking for help with<br>Scaling DevOps practices even further—whether it’s refining Kubernetes orchestration, enhancing CI/CD pipelines, or adopting new service mesh and monitoring tools to boost performance and reliability.<br><br>🌱 I’m currently learning<br>Advanced Kubernetes patterns, Istio for service mesh architecture, and exploring how to integrate AI-powered features into scalable full-stack apps.<br><br>💬 Ask me about<br>Full-stack architecture, building and scaling RESTful and asynchronous APIs, efficient use of Docker and GitLab CI/CD, or leading cross-functional dev teams through complex projects.<br><br>⚡ Fun fact<br>I once migrated a large legacy PHP monolith into a containerized microservices setup with Kubernetes—cutting release cycles from days to hours without downtime.
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/piroozjenabi/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jenabi.pirooz&theme=dark" alt="Layout with last medium posts"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=piroozjenabi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=piroozjenabi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=piroozjenabi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -118,3 +108,13 @@
 <img src="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/fccb25c986fd380bef5a7f568742094d851b78bd/snake.svg" alt="Snake animation" />
 
 ###
+
+
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/piroozjenabi/count.svg?"  />
+</div>
+
+###
+
+
