@@ -10,10 +10,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -107,14 +103,6 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/piroozjenabi/count.svg?"  />
 </div>
@@ -124,5 +112,9 @@
 <div align="center">
   <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=jenabi.pirooz&theme=dark" alt="Layout with last medium posts"  />
 </div>
+
+###
+
+<img src="https://raw.githubusercontent.com/piroozjenabi/piroozjenabi/output/snake.svg" alt="Snake animation" />
 
 ###
